@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitaliclapenko
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning cs50  HTML and CSS
+- 🌱 I’m currently learning cs50  HTML and CSS and JS
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me 
 Republic of Belarus
